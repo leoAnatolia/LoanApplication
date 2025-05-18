@@ -1,0 +1,14 @@
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/LoanApplication.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/config/DatabaseConfig.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/config/SecurityConfig.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/controller/LoanController.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/dto/ErrorResponse.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/dto/PaymentResult.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/entity/Customer.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/entity/Loan.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/entity/LoanInstallment.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/exception/LoanApiException.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/repository/CustomerRepository.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/repository/LoanInstallmentRepository.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/repository/LoanRepository.java
+/Users/ozgurkisir/training_workspace/LoanApplication/src/main/java/com/loanapi/service/LoanService.java
